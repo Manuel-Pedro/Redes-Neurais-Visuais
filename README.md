@@ -1,5 +1,8 @@
 # 📊 Representação, Operações e Otimizações em Redes Neurais
 
+![Licença MIT](https://img.shields.io/badge/Licença-MIT-blue.svg)
+![Feito com Python](https://img.shields.io/badge/feito%20com-Python-blue?logo=python&logoColor=white)
+
 Este repositório contém exemplos visuais e práticos sobre três conceitos fundamentais para quem estuda Matemática, Computação e Inteligência Artificial:
 
 1. **Representação de Dados**
